@@ -1,5 +1,5 @@
 ### Hey 👋, I'm For-ACGN
-I love information security and ACGN
+I love information security, network, programing and ACGN
 * good at intranet penetration
 * young gopher
 * currently focusing on writing red team tools
